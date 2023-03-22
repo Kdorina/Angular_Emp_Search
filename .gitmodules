@@ -1,0 +1,6 @@
+[submodule "Angular_Emp_Search_Web"]
+	path = Angular_Emp_Search_Web
+	url = https://github.com/Kdorina/Angular_Emp_Search_Web.git
+[submodule "Angular_Emp_Search_Api"]
+	path = Angular_Emp_Search_Api
+	url = https://github.com/Kdorina/Angular_Emp_Search_Api.git
